@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @failsafeplan0
-- 👀 I’m interested in JavaScript
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on JavaScript Project
+- 👋 Hi, I’m @failsafeplan0.
+- 👀 I’m interested in understanding life through code. Understand 0s and 1s that transends human understanding.
+- 🌱 I’m currently learning to meditate, breathe while typing and how to use my brain over 9000.
+- 💞️ I’m looking to collaborate on any project that is related to music. Don't consider me to be an active contributor on anything unelss you pay me.
 - 📫 How to reach me: Twitter: @fa115aphep1an
 
 <!---
